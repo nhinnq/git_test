@@ -1,2 +1,2 @@
-Hello, this is my first time learning
+Hello Odin, this is my first time learning
 Hope I can keep going
